@@ -1,0 +1,92 @@
+FATHER: 			Erynion
+EVIL HALF SISTER: 	Aegliriell
+
+UNCLE: 				Laermeluion
+
+YOUNGER SISTER: 	Lostariel
+MOTHER: 			Falathiel
+
+ENCOUNTER NOTES:
+
+OBJECTIVE: Help Adlanna Control the Blue Aura Magic and Resist the Fel Piece of Soul
+
+WIN CONDITIONS: 		Extract most of the Fel magic in the first ward OR Help Adlanna Control The Ward's Blue Aura Magic to Fight Back
+FULL LOSE CONDITIONS:	Fail to extract most of the fel in time AND Adlanna loses control when the wall limiting the first ward fails
+PARTIAL LOSE:			Same for full loss, but only if one of them happens
+
+FEL CORRUPTED: Longer Coma
+Loss of control: Extremely weak and injured for a week
+Win: Tired, but wakes up from her coma
+
+
+ACTIONS:
+Eloise premptively decided to drain part of the storm of arcane magic 
+
+(11-15 = something doesn't seem right - almost like another presence in it)
+(16+ = feels some kind of... corruption? Something tainted in her magic that shouldn't be there
+
+
+AT FIRST GLANCE
+Mysterious Aura - A faint blue glow can be seen occationally from Adlanna's eyes. It replaces her normal amber aura depending on the circumstances (eg., strong emotions).
+
+A magical-based individual might be able to detect the flucuations as some sort of magical aura, but not very well because of it's current faintness.
+
+Skilled Huntress - After being trained by her parents, who were master hunters, she left to wander and train across Azeroth for just over 5 years.
+
+As such, she has become quite adept at such a young age for a Kaldorei. She specializes in her bow and arrows in conjunction with her battle companion, Raija.
+
+Musically Inclined - Learned to be a songstress and bard at a young age.
+
+Night Elf - She is a Kaldorei with amber eyes.
+
+9/17 - Met Moria Fellgrave, who was looking for her brother Cleon. Later, while wandering after helping a small girl look for her balloons, Adlanna officially encountered the... interesting being known as Lucy. She continued to wander around with her tabby, before becoming a magician's "test subject". Still tending to the wounds she gained in Westfall, she decided to have a drink before heading off to rest some more.
+
+10/1 - Helped Salma Saldean feed orphens. Adlanna was moved by the joy and tears the children showed.
+
+
+Verasun - Contess Valentine (Hoard Blood Elf)
+
+
+{h1:c}{col:b08eff}A Broken Heart's Ascent{/col}{/h1}
+{img:Interface\QuestionFrame\answer-AlliedRace-Voidelf:256:128}
+
+{h2}Character Overview{/h2}
+{col:c3c2ff}Name: {/col}{col:ffffff}Adlanna {/col}{col:8f8f8f}({/col}{col:cbcbcb}Aleia to friends{/col}{col:8f8f8f}){/col}
+{col:c3c2ff}Titles: {/col}{col:ff0024}N/A{/col}
+{col:c3c2ff}Role(s): {/col}{col:59ff00}Huntress{/col}
+{col:c3c2ff}Likes: {/col}Music, Nature Walks, Rain, Helping Orphans
+{col:c3c2ff}Dislikes: {/col}Unbridled Hate, Cruelity to Nature, Really Loud Noises
+
+{col:c3c2ff}Professions / Skills:{/col}
+{col:ffffff}Tailoring {/col}{col:8f8f8f}(Intermediate){/col}
+{col:ffffff}Cooking {/col}{col:8f8f8f}(Intermediate){/col}
+
+{col:c3c2ff}Hobbies: {/col}{col:ffffff}Bard {/col}{col:8f8f8f}({/col}{col:67eeff}Songstress{/col}, {col:4eb5c2}Flautist{/col}
+
+
+{h2}Growing Up{/h2}
+A young night elf that was born into a family of renound hunters. Her father, Erynion was considered one of the best shooters in all of Teldrassil, with her mother Falathiel among only few that could out hunt him. Raised along with her younger sister Lostariel, they both was raised to "be huntresses just as good - if not better" as her father put it.
+
+In time, though, her parents discovered that she had also been secretly learning her father's brother's tradecraft: the art of a Bard. Her relationship with her mother quickly deteriorated as her mother's pride moved her to force Adlanna, nicknamed Aleia by her uncle, to dedicate more time training and less "frolicking about seducing those around her with petty songs."
+
+However, her father secretly expressed his approval toward his daughter's persuits, and even supported her by distracting her mother enough to let Adlanna to slip out to her uncle frequently to practice and learn.
+
+
+{h2}Tragedy Strikes{/h2}
+At the age of 83, hunters came back to the family with the body of Adlanna's now dead father. She, along with her mother and younger sister grieved as they learned a black tipped arrow coated with poison had pierced his heart from his front, killing him almost instantly. 
+
+Several years past, during which the rift between Adlanna and her mother lessened. Instead of her previous boisterous and mischievous personality, she developed a quiet and slightly hollow shell of herself. Depression moved her to eventually seperate at a young age from her remaining family and spend weeks and months training in the forests away.
+
+
+{h2}Treck to Recovery{/h2}
+Having spent years honing her craft, her music almost all forgotton except for the few songs she sings by herself, she feels ready to face her grieve head on as she joins as an official hunter of her people. She hopes to recover her relationship between herself and her family. She sets out on the tasks given to her, with her face toward the mountinous trek upon her.
+
+
+{h2}Another Tragedy{/h2}
+Upon entering Stormwind, she encountered several individuals that made strong impressions upon her. One of which, Eloise, seems to have stirred up Adlanna's emotions after her heart sitting in sadness after years of never hearing anything about her first love, Ghast. However, just as she begins her slow reintegration into proper society, she recieves a letter that had been awaiting her return for months - perhaps years? Upon steeling herself to return and make things right again between them, she found out about the tragedy of Teldrassill and Darkshore, and of the potential death of the rest of her family.
+
+This news shattered her already tense nerves, throwing her into a depression. Only by the help of some other friends she met (including a long day with Elosie) did she feel like she was kind of whole.
+
+{h2}Strange Occurences{/h2}
+Upon being helped from her bout of emotions culmilating from years of bottling grief and dealing with the recent painful news, she is found to have a mysterious pronounced glow to her eyes whenever she feels extremly strong emotions. Severe pain has been accompanying the surges, and has decided to make her way to her uncle, who she has finally heard new of being alive and well in the territory of Azuremyst Isle. She is planning on going there in hopes of answering some of her questions, especially in light of some of the vague hinting of such in the letter from her potential late mother.
+
